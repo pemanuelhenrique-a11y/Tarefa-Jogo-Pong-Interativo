@@ -20,5 +20,7 @@ Como inovação, esse jogo contém controles um pouco diferentes, agora você po
 
 ### Autores:
 Autores: Emanuel Henrique e Ezequiel Victor;
+
 Curso: Bacharelado em Ciências da Computação;
+
 Disciplina: Programação Estruturada;
